@@ -1,18 +1,19 @@
 # Site settings
-title: Rithvin Koneru
-general_email: rithvin16@gmail.com
-academic_email: rithvink@umd.edu
+title: Aryan Mittal
+general_email: thearyanmittal@gmail.com
+academic_email: aryan.mittal@gatech.edu
 
 description: > # this means to ignore newlines until "baseurl:"
-  Hello! I am a current computer science major and business minor at the University of Maryland.
+  I'm a Georgia Tech Mathematics and Computer Science student interested in combinatorics, game theory, and data science.
+  Feel free to contact me via email or LinkedIn.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
-url: "http://www.rithvink.github.io/" # the base hostname & protocol for your site
+url: "http://www.thearyanmittal.com/" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
-github_username: RithvinK
-linkedin_username: rithvink
+github_username: thearyanmittal
+linkedin_username: thearyanmittal
 #facebook_username: facebook_username
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
 
