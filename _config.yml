@@ -1,18 +1,19 @@
 # Site settings
-title: Rithvin Koneru Portfolio
+title: Rithvin Koneru
 general_email: rithvin16@gmail.com
 academic_email: rithvink@umd.edu
 
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a student.
+  Hello! I am a current computer science major and business minor at the University of Maryland.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
-url: "http://www.thearyanmittal.com/" # the base hostname & protocol for your site
+url: "http://www.rithvink.github.io/" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
 github_username: RithvinK
-linkedin_username: Rithvin Koneru
+linkedin_username: rithvink
+#facebook_username: facebook_username
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
 
 # Build settings
