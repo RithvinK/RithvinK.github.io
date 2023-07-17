@@ -13,9 +13,9 @@ Here is a list of my projects! You can also check out my Github profile <a href=
 	</li><br>
 	<li>
 		<b>JP Morgan Chase Virtual Software Engineering Course</b>: Worked through JP Morgan Chase's course on Forage which familiarizd me with JPMorgan Chase frameworks and allowed me to utilize my skills to handle a hypothetical request from the firm’s trading floor to analyze and visualize data in a new way. The course introduced ways to interface with a stock price data feed, use company tools and frameworks, and display data for traders.<br>
-		<a href="https://github.com/thearyanmittal/the-tank/tree/main/demo"><div class="color-button">Task 1</div></a>
-		<a href="https://github.com/thearyanmittal/the-tank/tree/main/demo"><div class="color-button">Task 2</div></a>
-		<a href="https://github.com/thearyanmittal/the-tank/tree/main/demo"><div class="color-button">Task 3</div></a>
+		<a href="https://github.com/thearyanmittal/the-tank/tree/main/demo"><div class="color-button">Task 1</div><a>
+		<a href="https://github.com/thearyanmittal/the-tank/tree/main/demo"><div class="color-button">Task 2</div><a>
+		<a href="https://github.com/thearyanmittal/the-tank/tree/main/demo"><div class="color-button">Task 3</div><a>
 		<a href="https://github.com/thearyanmittal/the-tank"><div class="color-button">Certifacate</div></a>
 	</li><br>
 	<li>
