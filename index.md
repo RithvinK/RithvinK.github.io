@@ -9,10 +9,8 @@ permalink: /
 Hello, welcome to my portfolio site! I am Rithvin Koneru, a Computer Science major and business minor at the University of Maryland heading into my junior year.
 
 
-I am a passionate and driven programmer with a curious nature. I enjoy learning new technologies and concepts as well as taking on challenging problems.
+I am a passionate and driven programmer with a curious nature. I enjoy learning new technologies and concepts as well as taking on challenging problems. More about me and this page can be found in the about section. 
 
-I am currently looking for internships in software engineering/FinTech to apply my interests/knowledge to real-world business problems. My interests include the fields of software development, finance/business, and artificial intelligence.
-
-Outside of career interests, I enjoy playing the piano, watching movies/sports(Go Jets!), working out, and being outdoors.
+My projects can be viewed under the <a href="/projects">Projects</a> tab. For further details, please check out my <a href="">Github profile</a>.
 
 
