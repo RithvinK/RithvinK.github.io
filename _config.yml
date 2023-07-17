@@ -2,6 +2,7 @@
 title: Rithvin Koneru
 general_email: rithvin16@gmail.com
 academic_email: rithvink@terpmail.umd.edu
+theme: jekyll-theme-cayman
 
 description: > # this means to ignore newlines until "baseurl:"
   I'm a University of Maryland Computer Science major and business minor interested in artifical intelligence, data science, and finance.
