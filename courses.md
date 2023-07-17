@@ -16,7 +16,7 @@ permalink: /courses/
 	<li><a href="https://math.gatech.edu/courses/math/1554"><b>MATH 1554:</b></a> Linear Algebra</li>
 </ul>
 
-<h3>Mathematics/h3>
+<h3>Mathematics</h3>
 
 <ul>
 	<li><a href="https://gt-student-wiki.org/mediawiki/index.php/CS_2050#Topics_List"><b>CS 2050:</b></a> Discrete Mathematics*</li>
