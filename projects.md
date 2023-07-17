@@ -24,8 +24,6 @@ Here is a list of my projects! You can also check out my Github profile <a href=
 		<a href="https://github.com/thearyanmittal/facial-recognition"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
-		<b>Animated Education</b>: A group of videos animated with the Python animation engine <i>manim</i> to explain concepts in other subjects (Calculus and Chemistry).<br>
-		<a href="https://www.youtube.com/watch?v=hckAj-Y3je8"><div class="color-button">newton's method</div></a><a href="https://www.youtube.com/watch?v=mb60__0niwM"><div class="color-button">hess' law</div></a><a href="https://github.com/thearyanmittal/animated-videos"><div class="color-button">code</div></a>
-	</li><br>
+		
 
 </ul>
