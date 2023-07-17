@@ -8,8 +8,8 @@ Here is a list of my projects! You can also check out my Github profile <a href=
 
 <ul>
 	<li>
-		<b>Atlanta Home Rental Price Prediction</b>: A data science project aimed at predicting the prices of home rentals in the Atlanta region. Data was scraped from the Georgia MLS site. I performed extensive cleaning and preprocessing measures on the dataset and visualized the correlation between home rental price and various features and factors. I evaluated the performance of multiple regression models on the dataset and built a model that accurately predicts home rental prices to within roughly $600.<br>
-		<a href="https://github.com/thearyanmittal/atl-home-rentals"><div class="color-button">code</div></a>
+		<b>UPS Hackathon Project: Personal Vehicle Driver App</b>: This app was designed for the UPS Hackathon. A personal vehicle driver is someone who helps with deliveries during peak delivery season, where they utilize their personal vehicles to pick up and deliver packages as a third-party employer of UPS. Our team designed an app for PVDs to sign on, register their vehicles, and receive their assigned packages to deliver based on their vehicle space and selection. These packages are assigned using an algorithm that maximizes the packages assigned by assigning the biggest packages available that fit in the vehicle and then move on to smaller packages. <br>
+		<a href="https://github.com/RithvinK/UPS-Hackathon-Project"><div class="color-button">details</div></a>
 	</li><br>
 	<li>
 		<b>The Tank</b>: We created a fully remote-controlled model tank with a laser pointer turret and an onboard camera that streamed live 720p60 video to a web server from scratch over 4 weeks. I was responsible for writing the software for the controller, tank motion, online streaming video server, and communication between the remote control and tank. We presented this project at the GHP (Governor's Honors Program) 58 Engineering Expo to GHP students and faculty.<br>
