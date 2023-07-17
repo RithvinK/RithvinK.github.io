@@ -9,19 +9,23 @@ permalink: /courses/
 <h3>Computer Science</h3>
 
 <ul>
-	<li><a href="https://math.gatech.edu/courses/math/3406"><b>MATH 3406:</b></a> A Second Course on Linear Algebra*</li>
-	<li><a href="https://math.gatech.edu/courses/math/3012"><b>MATH 3012:</b></a> Applied Combinatorics*</li>
-	<li><a href="https://math.gatech.edu/courses/math/2106"><b>MATH 2106:</b></a> Foundations of Mathematical Proof*</li>
-	<li><a href="https://math.gatech.edu/courses/math/3670"><b>MATH 3670:</b></a> Probability and Statistics with Applications</li>
-	<li><a href="https://math.gatech.edu/courses/math/1554"><b>MATH 1554:</b></a> Linear Algebra</li>
+	<li><a href="https://math.gatech.edu/courses/math/3406"><b>CMSC 320:</b></a> Intro to Data Science*</li>
+	<li><a href="https://math.gatech.edu/courses/math/3012"><b>CMSC 420:</b></a> Advanced Data Structures*</li>
+	<li><a href="https://math.gatech.edu/courses/math/2106"><b>CMSC 351:</b></a> Algorithms</li>
+	<li><a href="https://math.gatech.edu/courses/math/3670"><b>CMSC 330:</b></a> Dynamic and Functional Programming</li>
+	<li><a href="https://math.gatech.edu/courses/math/1554"><b>CMSC 216:</b></a> Intro to Computer Systems</li>
+	<li><a href="https://math.gatech.edu/courses/math/1554"><b>CMSC 132:</b></a> Object-Oriented Programming II</li>
+	<li><a href="https://math.gatech.edu/courses/math/1554"><b>CMSC 131:</b></a> Object-Oriented Programming I</li>
 </ul>
 
 <h3>Mathematics</h3>
 
 <ul>
-	<li><a href="https://gt-student-wiki.org/mediawiki/index.php/CS_2050#Topics_List"><b>CS 2050:</b></a> Discrete Mathematics*</li>
-	<li><a href="https://ctl.gatech.edu/sites/default/files/images/hudachek-buswell_cs1332_syllabus.pdf"><b>CS 1332:</b></a> Data Structures and Algorithms*</li>
-	<li><a href="https://faculty.cc.gatech.edu/~stasko/1331/index.html"><b>CS 1331:</b></a> Object-Oriented Programming</li>
+	<li><a href="https://gt-student-wiki.org/mediawiki/index.php/CS_2050#Topics_List"><b>STAT 400:</b></a> Applied Probability and Statistics*</li>
+	<li><a href="https://ctl.gatech.edu/sites/default/files/images/hudachek-buswell_cs1332_syllabus.pdf"><b>MATH 250:</b></a> Data Structures and Algorithms</li>
+	<li><a href="https://faculty.cc.gatech.edu/~stasko/1331/index.html"><b>MATH 240:</b></a> Linear Algebra</li>
+	<li><a href="https://faculty.cc.gatech.edu/~stasko/1331/index.html"><b>MATH 141:</b></a> Calculus II</li>
+	<li><a href="https://faculty.cc.gatech.edu/~stasko/1331/index.html"><b>MATH 140:</b></a> Calculus I</li>
 </ul>
 
 <br>
