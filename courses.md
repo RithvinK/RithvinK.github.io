@@ -33,7 +33,7 @@ permalink: /courses/
 <h2>Independent Courses</h2>
 
 <ul>
-	<li><a href="https://www.coursera.org/learn/game-theory-1">Intro to Generative AI*</a></li>
+	<li><a href="https://www.coursera.org/learn/game-theory-1">Baseline: Data, ML, AI*</a></li>
 	<li><a href="https://www.coursera.org/learn/game-theory-1">JP Morgan Chase Software Engineering Course</a></li>
 	<li><a href="https://www.coursera.org/learn/combinatorial-game-theory">Google Cloud Essentials</a></li>
 	<li><a href="https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187">Google Analytics Beginner/Advanced</a></li>
