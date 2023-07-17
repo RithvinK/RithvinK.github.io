@@ -17,7 +17,7 @@ Here is a list of my projects! You can also check out my Github profile <a href=
 		<a href="https://github.com/thearyanmittal/the-tank/tree/main/demo"><div class="color-button">Task 2</div><a>
 		<a href="https://github.com/thearyanmittal/the-tank/tree/main/demo"><div class="color-button">Task 3</div><a>
 		<a href="https://github.com/thearyanmittal/the-tank"><div class="color-button">Certificate</div></a>
-	</li><br>
+<br>
 	<li>
 		<b>Portfolio Website</b>: I developed a personal portfolio website(this website) to showcase my projects, interests, and courses relevent to my career pursuits in software engineering/FinTech opportunities. This site is hosted on github pages.<br>
 		<a href="https://github.com/thearyanmittal/news-aggregator"><div class="color-button">Code</div></a>
