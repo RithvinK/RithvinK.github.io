@@ -30,7 +30,7 @@ permalink: /courses/
 
 <br>
 
-<h2>MOOC</h2>
+<h2>Independent Courses</h2>
 
 <ul>
 	<li><a href="https://www.coursera.org/learn/game-theory-1">Intro to Generative AI*</a></li>
