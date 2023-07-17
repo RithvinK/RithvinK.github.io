@@ -16,13 +16,13 @@ Here is a list of my projects! You can also check out my Github profile <a href=
 		<a href="https://github.com/thearyanmittal/the-tank/tree/main/demo"><div class="color-button">Task 1</div><a>
 		<a href="https://github.com/thearyanmittal/the-tank/tree/main/demo"><div class="color-button">Task 2</div><a>
 		<a href="https://github.com/thearyanmittal/the-tank/tree/main/demo"><div class="color-button">Task 3</div><a>
-		<a href="https://github.com/thearyanmittal/the-tank"><div class="color-button">Certifacate</div></a>
+		<a href="https://github.com/thearyanmittal/the-tank"><div class="color-button">Certificate</div></a>
 	</li><br>
 	<li>
-		<b>Portfolio Website</b>: A news aggregator web application designed to combat political confirmation bias and built with the Django framework. It scrapes news articles (using BeautifulSoup) from websites on both sides of the political spectrum and presents them to the user in one webpage.<br>
+		<b>Portfolio Website</b>: I developed a personal portfolio website(this website) to showcase my projects, interests, and courses relevent to my career pursuits in software engineering/FinTech opportunities. This site is hosted on github pages.<br>
 		<a href="https://github.com/thearyanmittal/news-aggregator"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
-		<b>Interest Rate Calculator using Java and JavaFX</b>: A Python facial recognition program that identifies and labels faces in live webcam feed. It also detects whether a face mask is being worn properly. It was used by small business owners during COVID-19 to help enforce mask-required policies at their stores.<br>
+		<b>Interest Rate Calculator using Java and JavaFX</b>: Developed UI and backend which takes in user input regarding years, principal amount, interest rate, and type of interest and outputs yearly calculations of the loan amount using the inputted data. <br>
 		<a href="https://github.com/thearyanmittal/facial-recognition"><div class="color-button">code</div></a>
 
