@@ -4,9 +4,9 @@ title: Relevant Coursework
 permalink: /courses/
 ---
 
-<h2>At Georgia Institute of Technology</h2>
+<h2>At University of Maryland</h2>
 
-<h3>Mathematics</h3>
+<h3>Computer Science</h3>
 
 <ul>
 	<li><a href="https://math.gatech.edu/courses/math/3406"><b>MATH 3406:</b></a> A Second Course on Linear Algebra*</li>
@@ -16,26 +16,12 @@ permalink: /courses/
 	<li><a href="https://math.gatech.edu/courses/math/1554"><b>MATH 1554:</b></a> Linear Algebra</li>
 </ul>
 
-<h3>Computer Science</h3>
+<h3>Mathematics/h3>
 
 <ul>
 	<li><a href="https://gt-student-wiki.org/mediawiki/index.php/CS_2050#Topics_List"><b>CS 2050:</b></a> Discrete Mathematics*</li>
 	<li><a href="https://ctl.gatech.edu/sites/default/files/images/hudachek-buswell_cs1332_syllabus.pdf"><b>CS 1332:</b></a> Data Structures and Algorithms*</li>
 	<li><a href="https://faculty.cc.gatech.edu/~stasko/1331/index.html"><b>CS 1331:</b></a> Object-Oriented Programming</li>
-</ul>
-
-
-<br>
-
-
-<h2>At Clayton State University</h2>
-
-<h3>Mathematics</h3>
-
-<ul>
-	<li><b>MATH 4350:</b> Graph Theory</li>
-	<li><b>MATH 2503:</b> Multivariable Calculus</li>
-	<li><b>MATH 2502:</b> Calculus II</li>
 </ul>
 
 <br>
