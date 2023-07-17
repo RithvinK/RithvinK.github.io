@@ -13,16 +13,16 @@ Here is a list of my projects! You can also check out my Github profile <a href=
 	</li><br>
 	<li>
 		<b>JP Morgan Chase Virtual Software Engineering Course</b>: Worked through JP Morgan Chase's course on Forage which familiarizd me with JPMorgan Chase frameworks and allowed me to utilize my skills to handle a hypothetical request from the firm’s trading floor to analyze and visualize data in a new way. The course introduced ways to interface with a stock price data feed, use company tools and frameworks, and display data for traders.<br>
-		<a href="https://github.com/thearyanmittal/the-tank/tree/main/demo"><div class="color-button">Task 1</div><a>
-		<a href="https://github.com/thearyanmittal/the-tank/tree/main/demo"><div class="color-button">Task 2</div><a>
-		<a href="https://github.com/thearyanmittal/the-tank/tree/main/demo"><div class="color-button">Task 3</div><a>
+		<a href="https://github.com/RithvinK/forage-jpmc-swe-task-1"><div class="color-button">Task 1</div><a>
+		<a href="https://github.com/RithvinK/forage-jpmc-swe-task-2"><div class="color-button">Task 2</div><a>
+		<a href="https://github.com/RithvinK/forage-jpmc-swe-task-3"><div class="color-button">Task 3</div><a>
 		<a href="https://github.com/thearyanmittal/the-tank"><div class="color-button">Certificate</div></a>
 <br><br>
 	<li>
 		<b>Portfolio Website</b>: I developed a personal portfolio website(this website) to showcase my projects, interests, and courses relevent to my career pursuits in software engineering/FinTech opportunities. This site is hosted on github pages.<br>
-		<a href="https://github.com/thearyanmittal/news-aggregator"><div class="color-button">Code</div></a>
+		<a href="https://github.com/RithvinK/RithvinK.github.io"><div class="color-button">Code</div></a>
 	</li><br>
 	<li>
 		<b>Interest Rate Calculator using Java and JavaFX</b>: Developed UI and backend which takes in user input regarding years, principal amount, interest rate, and type of interest and outputs yearly calculations of the loan amount using the inputted data. <br>
-		<a href="https://github.com/thearyanmittal/facial-recognition"><div class="color-button">Code</div></a>
+		<a href="https://github.com/RithvinK/Interest-Table"><div class="color-button">Code</div></a>
 
