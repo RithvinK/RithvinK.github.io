@@ -24,6 +24,4 @@ Here is a list of my projects! You can also check out my Github profile <a href=
 		<a href="https://github.com/thearyanmittal/facial-recognition"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
-		
 
-</ul>
