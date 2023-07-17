@@ -22,6 +22,4 @@ Here is a list of my projects! You can also check out my Github profile <a href=
 	<li>
 		<b>Facial Recognition and Mask Detection</b>: A Python facial recognition program that identifies and labels faces in live webcam feed. It also detects whether a face mask is being worn properly. It was used by small business owners during COVID-19 to help enforce mask-required policies at their stores.<br>
 		<a href="https://github.com/thearyanmittal/facial-recognition"><div class="color-button">code</div></a>
-	</li><br>
-	<li>
 
