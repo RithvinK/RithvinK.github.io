@@ -9,23 +9,23 @@ permalink: /courses/
 <h3>Computer Science</h3>
 
 <ul>
-	<li><a href="https://math.gatech.edu/courses/math/3406"><b>CMSC 320:</b></a> Intro to Data Science*</li>
-	<li><a href="https://math.gatech.edu/courses/math/3012"><b>CMSC 420:</b></a> Advanced Data Structures*</li>
-	<li><a href="https://math.gatech.edu/courses/math/2106"><b>CMSC 351:</b></a> Algorithms</li>
-	<li><a href="https://math.gatech.edu/courses/math/3670"><b>CMSC 330:</b></a> Dynamic and Functional Programming</li>
-	<li><a href="https://math.gatech.edu/courses/math/1554"><b>CMSC 216:</b></a> Intro to Computer Systems</li>
-	<li><a href="https://math.gatech.edu/courses/math/1554"><b>CMSC 132:</b></a> Object-Oriented Programming II</li>
-	<li><a href="https://math.gatech.edu/courses/math/1554"><b>CMSC 131:</b></a> Object-Oriented Programming I</li>
+	<li><a href="https://planetterp.com/course/CMSC320"><b>CMSC 320:</b></a> Intro to Data Science*</li>
+	<li><a href="https://planetterp.com/course/CMSC420"><b>CMSC 420:</b></a> Advanced Data Structures*</li>
+	<li><a href="https://planetterp.com/course/CMSC351"><b>CMSC 351:</b></a> Algorithms</li>
+	<li><a href="https://planetterp.com/course/CMSC330"><b>CMSC 330:</b></a> Dynamic and Functional Programming</li>
+	<li><a href="https://planetterp.com/course/CMSC216"><b>CMSC 216:</b></a> Intro to Computer Systems</li>
+	<li><a href="https://planetterp.com/course/CMSC132"><b>CMSC 132:</b></a> Object-Oriented Programming II</li>
+	<li><a href="https://planetterp.com/course/CMSC131"><b>CMSC 131:</b></a> Object-Oriented Programming I</li>
 </ul>
 
 <h3>Mathematics</h3>
 
 <ul>
-	<li><a href="https://gt-student-wiki.org/mediawiki/index.php/CS_2050#Topics_List"><b>STAT 400:</b></a> Applied Probability and Statistics*</li>
-	<li><a href="https://ctl.gatech.edu/sites/default/files/images/hudachek-buswell_cs1332_syllabus.pdf"><b>MATH 250:</b></a> Data Structures and Algorithms</li>
-	<li><a href="https://faculty.cc.gatech.edu/~stasko/1331/index.html"><b>MATH 240:</b></a> Linear Algebra</li>
-	<li><a href="https://faculty.cc.gatech.edu/~stasko/1331/index.html"><b>MATH 141:</b></a> Calculus II</li>
-	<li><a href="https://faculty.cc.gatech.edu/~stasko/1331/index.html"><b>MATH 140:</b></a> Calculus I</li>
+	<li><a href="https://planetterp.com/course/STAT400"><b>STAT 400:</b></a> Applied Probability and Statistics*</li>
+	<li><a href="https://planetterp.com/course/CMSC250"><b>CMSC 250:</b></a> Discrete Math</li>
+	<li><a href="https://planetterp.com/course/MATH240"><b>MATH 240:</b></a> Linear Algebra</li>
+	<li><a href="https://planetterp.com/course/MATH141"><b>MATH 141:</b></a> Calculus II</li>
+	<li><a href="https://planetterp.com/course/MATH140"><b>MATH 140:</b></a> Calculus I</li>
 </ul>
 
 <br>
