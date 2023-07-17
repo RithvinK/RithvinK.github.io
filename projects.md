@@ -12,7 +12,7 @@ Here is a list of my projects! You can also check out my Github profile <a href=
 		<a href="https://github.com/RithvinK/UPS-Hackathon-Project"><div class="color-button">details</div></a>
 	</li><br>
 	<li>
-		<b>The Tank</b>: We created a fully remote-controlled model tank with a laser pointer turret and an onboard camera that streamed live 720p60 video to a web server from scratch over 4 weeks. I was responsible for writing the software for the controller, tank motion, online streaming video server, and communication between the remote control and tank. We presented this project at the GHP (Governor's Honors Program) 58 Engineering Expo to GHP students and faculty.<br>
+		<b>JP Morgan Chase Virtual Software Engineering Course</b>: Worked through JP Morgan Chase's course on Forage which familiarizd me with JPMorgan Chase frameworks and allowed me to utilize my skills to handle a hypothetical request from the firm’s trading floor to analyze and visualize data in a new way. The course introduced ways to interface with a stock price data feed, use company tools and frameworks, and display data for traders.<br>
 		<a href="https://github.com/thearyanmittal/the-tank/tree/main/demo"><div class="color-button">demo</div></a><a href="https://github.com/thearyanmittal/the-tank"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
