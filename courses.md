@@ -33,10 +33,10 @@ permalink: /courses/
 <h2>MOOC</h2>
 
 <ul>
-	<li><a href="https://www.coursera.org/learn/game-theory-1">Game Theory I*</a></li>
-	<li><a href="https://www.coursera.org/learn/combinatorial-game-theory">Games Without Chance: Combinatorial Game Theory</a></li>
-	<li><a href="https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187">TensorFlow for Deep Learning</a></li>
-	<li><a href="https://www.udacity.com/course/intro-to-data-analysis--ud170">Data Analysis with Python</a></li>
+	<li><a href="https://www.coursera.org/learn/game-theory-1">Intro to Generative AI*</a></li>
+	<li><a href="https://www.coursera.org/learn/game-theory-1">JP Morgan Chase Software Engineering Course</a></li>
+	<li><a href="https://www.coursera.org/learn/combinatorial-game-theory">Google Cloud Essentials</a></li>
+	<li><a href="https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187">Google Analytics Beginner/Advanced</a></li>
 </ul>
 
 <div align= "right">
