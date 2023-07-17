@@ -5,8 +5,7 @@ general_email: rithvin16@gmail.com
 academic_email: rithvink@terpmail.umd.edu
 
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a University of Maryland Computer Science major and business minor interested in artifical intelligence, data science, and finance.
-  Feel free to contact me through email or LinkedIn.
+  Feel free to contact me through email or LinkedIn!
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
