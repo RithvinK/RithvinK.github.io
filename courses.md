@@ -35,7 +35,7 @@ permalink: /courses/
 	<li><a href="https://planetterp.com/course/BMGT210"><b>BMGT 210:</b></a> Foundations of Accounting*</li>
 	<li><a href="https://planetterp.com/course/BMGT395"><b>BMGT 395:</b></a> Foundations of Management</li>
 	<li><a href="https://planetterp.com/course/ENES210"><b>ENES 210:</b></a> Entrepreneurship II: Tech Ventures</li>
-	<li><a href="https://planetterp.com/course/ENES140"><b>ENES 140:</b></a> entrepreneurship</li>
+	<li><a href="https://planetterp.com/course/ENES140"><b>ENES 140:</b></a> Entrepreneurship</li>
 </ul>
 
 <br>
