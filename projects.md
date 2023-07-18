@@ -9,7 +9,7 @@ Here is a list of my projects! You can also check out my Github profile <a href=
 <ul>
 	<li>
 		<b>UPS Hackathon Project: Personal Vehicle Driver App</b>: This app was designed for the UPS Hackathon. A personal vehicle driver is someone who helps with deliveries during peak delivery season, where they utilize their personal vehicles to pick up and deliver packages as a third-party employer of UPS. Our team designed an app for PVDs to sign on, register their vehicles, and receive their assigned packages to deliver based on their vehicle space and selection. These packages are assigned using an algorithm that maximizes the packages assigned by assigning the biggest packages available that fit in the vehicle and then move on to smaller packages. <br>
-		<a href="https://github.com/RithvinK/UPS-Hackathon-Project"><div class="color-button">Details</div></a>
+		<a href="/PVD_App_Pres.pdf"><div class="color-button">Details</div></a>
 	</li><br>
 	<li>
 		<b>JP Morgan Chase Virtual Software Engineering Experience</b>: Worked through JP Morgan Chase's course on Forage which familiarizd me with JPMorgan Chase frameworks and allowed me to utilize my skills to handle a hypothetical request from the firm’s trading floor to analyze and visualize data in a new way. The course introduced ways to interface with a stock price data feed, use company tools and frameworks, and display data for traders.<br>
