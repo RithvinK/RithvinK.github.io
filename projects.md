@@ -12,7 +12,7 @@ Here is a list of my projects! You can also check out my Github profile <a href=
 		<a href="/PVD_App_Pres.pdf"><div class="color-button">Details</div></a>
 	</li><br>
 	<li>
-		<b>JP Morgan Chase Virtual Software Engineering Experience</b>: Worked through JP Morgan Chase's course on Forage which familiarizd me with JPMorgan Chase frameworks and allowed me to utilize my skills to handle a hypothetical request from the firm’s trading floor to analyze and visualize data in a new way. The course introduced ways to interface with a stock price data feed, use company tools and frameworks, and display data for traders. Simulation and coding was done in python, typescript, and HTML.<br>
+		<b>JPMorgan Chase Virtual Software Engineering Experience</b>: Worked through JP Morgan Chase's course on Forage which familiarizd me with JPMorgan Chase frameworks and allowed me to utilize my skills to handle a hypothetical request from the firm’s trading floor to analyze and visualize data in a new way. The course introduced ways to interface with a stock price data feed, use company tools and frameworks, and display data for traders. Simulation and coding was done in python, typescript, and HTML.<br>
 		<a href="https://github.com/RithvinK/forage-jpmc-swe-task-1"><div class="color-button">Task 1</div><a>
 		<a href="https://github.com/RithvinK/forage-jpmc-swe-task-2"><div class="color-button">Task 2</div><a>
 		<a href="https://github.com/RithvinK/forage-jpmc-swe-task-3"><div class="color-button">Task 3</div><a>
