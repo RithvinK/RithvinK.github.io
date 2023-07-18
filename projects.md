@@ -19,7 +19,7 @@ Here is a list of my projects! You can also check out my Github profile <a href=
 		<a href="/images/jpmcCert.pdf"><div class="color-button">Certificate</div></a>
 <br><br>
 	<li>
-		<b>Portfolio Website</b>: I developed a personal portfolio website(this website) to showcase my projects, interests, and courses relevent to my career pursuits in software engineering/FinTech opportunities. This site is hosted on github pages.<br>
+		<b>Portfolio Website</b>: I developed a personal portfolio website(this website) to showcase my projects, interests, and courses relevent to my career pursuits in software engineering/FinTech opportunities. This site is hosted on github pages and was developed using HTML/SCSS/CSS.<br>
 		<a href="https://github.com/RithvinK/RithvinK.github.io"><div class="color-button">Code</div></a>
 	</li><br>
 	<li>
