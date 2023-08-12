@@ -23,7 +23,7 @@ Here is a list of my projects! You can also check out my Github profile <a href=
 		<a href="https://github.com/RithvinK/forage-jpmc-swe-task-2"><div class="color-button">Task 2</div><a>
 		<a href="https://github.com/RithvinK/forage-jpmc-swe-task-3"><div class="color-button">Task 3</div><a>
 		<a href="/images/jpmcCert.pdf"><div class="color-button">Certificate</div></a>
-<br><br>
+<br>
 	<li>
 		<b>Portfolio Website</b>: I developed a personal portfolio website(this website) to showcase my projects, interests, and courses relevent to my career pursuits in software engineering/FinTech opportunities. This site is hosted on github pages and was developed using HTML/SCSS/CSS.<br>
 		<a href="https://github.com/RithvinK/RithvinK.github.io"><div class="color-button">Code</div></a>
