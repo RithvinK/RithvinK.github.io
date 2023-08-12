@@ -8,6 +8,9 @@ Here is a list of my projects! You can also check out my Github profile <a href=
 
 <ul>
 	<li>
+		<b>***COMING SOON*** - Artifical Intelligence Model for Heart Failure Prediction</b>: Developing an AI model which takes in data regarding patient statistics and provides a prediction as whether they are prone to heart failure as well as a prediction if mortality by heart failure is a possibility. Programming done in python utilizing data analysis libraries such as NumPy, Pandas, Matplotlib, and seaborn. <br>
+	</li><br>
+	<li>
 		<b>UPS Hackathon Project: Personal Vehicle Driver App</b>: This app was designed for the UPS Hackathon. A personal vehicle driver is someone who helps with deliveries during peak delivery season, where they utilize their personal vehicles to pick up and deliver packages as a third-party employer of UPS. Our team designed an app for PVDs to sign on, register their vehicles, and receive their assigned packages to deliver based on their vehicle space and selection. These packages are assigned using an algorithm that maximizes the packages assigned by assigning the biggest packages available that fit in the vehicle and then move on to smaller packages. Programming done in python and SQL. <br>
 		<a href="/PVD_App_Pres.pdf"><div class="color-button">Details</div></a>
 	</li><br>
