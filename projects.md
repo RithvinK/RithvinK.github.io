@@ -8,10 +8,11 @@ Here is a list of my projects! You can also check out my Github profile <a href=
 
 <ul>
 	<li>
-		<b>***COMING SOON*** - Artifical Intelligence Model for Heart Failure Prediction</b>: Developing an AI model which takes in data regarding patient statistics and provides a prediction as whether they are prone to heart failure as well as a prediction if mortality by heart failure is a possibility. Programming done in python utilizing data analysis libraries such as NumPy, Pandas, Matplotlib, and seaborn. <br>
+		<b>***COMING SOON*** - Mobile App for PECS Communication System</b>: Developing a mobile app solution which modernizes the current PECS communication system, a system utilized for communication for people diagnosed with autism spectrum disorder. The system utilizes physical cards, which will be stored on an online database for this app solution. Development occuring in Google Firebase and utilizing Google Cloud Storage Buckets, BigQuery, and App Engine. <br>
 	</li><br>
 	<li>
-		<b>***COMING SOON*** - Mobile App for PECS Communication System</b>: Developing a mobile app solution which modernizes the current PECS communication system, a system utilized for communication for people diagnosed with autism spectrum disorder. The system utilizes physical cards, which will be stored on an online database for this app solution. Development occuring in Google Firebase and utilizing Google Cloud Storage Buckets, BigQuery, and App Engine. <br>
+		<b>Artifical Intelligence Model for Heart Failure Prediction</b>: Designed and implemented a data science and supervised machine learning workflow in Python for heart failure prediction use case. Stored and managed data using Pandas, and carried out feature engineering, Linear Regression/Lasso/Random Forest model construction in scikit-learn, and performance testing. <br>
+		<a href="https://github.com/RithvinK/Heart-Failure-Prediction-Project"><div class="color-button">Project Details</div></a>
 	</li><br>
 	<li>
 		<b>UPS Hackathon Project: Personal Vehicle Driver App</b>: This app was designed for the UPS Hackathon. A personal vehicle driver is someone who helps with deliveries during peak delivery season, where they utilize their personal vehicles to pick up and deliver packages as a third-party employer of UPS. Our team designed an app for PVDs to sign on, register their vehicles, and receive their assigned packages to deliver based on their vehicle space and selection. These packages are assigned using an algorithm that maximizes the packages assigned by assigning the biggest packages available that fit in the vehicle and then move on to smaller packages. Programming done in python and SQL. <br>
