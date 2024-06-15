@@ -11,6 +11,11 @@ Here is a list of my projects! You can also check out my Github profile <a href=
 		<b>***COMING SOON*** - Mobile App for PECS Communication System</b>: Developing a mobile app solution which modernizes the current PECS communication system, a system utilized for communication for people diagnosed with autism spectrum disorder. The system utilizes physical cards, which will be stored on an online database for this app solution. Development occuring in Google Firebase and utilizing Google Cloud Storage Buckets, BigQuery, and App Engine. <br>
 	</li><br>
 	<li>
+		<b>Movie Recommender Web App</b>: Allows a user to fill out info regarding their movie interests(genre and favorite movies) as well as contact info. After that, they are able to find other users who share similar interests in their chosen movies and contact them. <br>
+		<a href="https://github.com/RithvinK/Movie_Recommender"><div class="color-button">Project Details</div></a><br>
+		<a href="https://www.youtube.com/watch?v=QUT7arhdlzo"><div class="color-button">Video Demo</div></a>
+	</li><br>
+	<li>
 		<b>Artifical Intelligence Model for Heart Failure Prediction</b>: Designed and implemented a data science and supervised machine learning workflow in Python for heart failure prediction use case. Stored and managed data using Pandas, and carried out feature engineering, Linear Regression/Lasso/Random Forest model construction in scikit-learn, and performance testing. <br>
 		<a href="https://github.com/RithvinK/Heart-Failure-Prediction-Project"><div class="color-button">Project Details</div></a>
 	</li><br>
