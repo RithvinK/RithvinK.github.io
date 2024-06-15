@@ -9,8 +9,11 @@ permalink: /courses/
 <h3>Computer Science</h3>
 
 <ul>
-	<li><a href="https://planetterp.com/course/CMSC320"><b>CMSC 320:</b></a> Intro to Data Science*</li>
-	<li><a href="https://planetterp.com/course/CMSC420"><b>CMSC 420:</b></a> Advanced Data Structures*</li>
+	<li><a href="https://planetterp.com/course/CMSC320"><b>CMSC 320:</b></a> Intro to Machine Learning</li>
+	<li><a href="https://planetterp.com/course/CMSC420"><b>CMSC 420:</b></a> Database Design</li>
+	<li><a href="https://planetterp.com/course/CMSC351"><b>CMSC 351:</b></a> Web Applications</li>
+	<li><a href="https://planetterp.com/course/CMSC320"><b>CMSC 320:</b></a> Intro to Data Science</li>
+	<li><a href="https://planetterp.com/course/CMSC420"><b>CMSC 420:</b></a> Advanced Data Structures</li>
 	<li><a href="https://planetterp.com/course/CMSC351"><b>CMSC 351:</b></a> Algorithms</li>
 	<li><a href="https://planetterp.com/course/CMSC330"><b>CMSC 330:</b></a> Dynamic and Functional Programming</li>
 	<li><a href="https://planetterp.com/course/CMSC216"><b>CMSC 216:</b></a> Intro to Computer Systems</li>
