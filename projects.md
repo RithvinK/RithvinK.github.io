@@ -12,13 +12,13 @@ Here is a list of my projects! You can also check out my Github profile <a href=
 	</li><br>
 	<li>
 		<b>Movie Recommender Web App</b>: Allows a user to fill out info regarding their movie interests(genre and favorite movies) as well as contact info. After that, they are able to find other users who share similar interests in their chosen movies and contact them. <br>
-		<a href="https://github.com/RithvinK/Movie_Recommender"><div class="color-button">Project Details</div></a>
+		<a href="https://github.com/RithvinK/Movie_Recommender"><div class="color-button">Project Repo</div></a>
 		<a href="https://www.youtube.com/watch?v=QUT7arhdlzo"><div class="color-button">Video Demo</div></a>
 		<a href="https://finalproject-62jw.onrender.com/"><div class="color-button">Hosted Site</div></a>
 	</li><br>
 	<li>
 		<b>Artifical Intelligence Model for Heart Failure Prediction</b>: Designed and implemented a data science and supervised machine learning workflow in Python for heart failure prediction use case. Stored and managed data using Pandas, and carried out feature engineering, Linear Regression/Lasso/Random Forest model construction in scikit-learn, and performance testing. <br>
-		<a href="https://github.com/RithvinK/Heart-Failure-Prediction-Project"><div class="color-button">Project Details</div></a>
+		<a href="https://github.com/RithvinK/Heart-Failure-Prediction-Project"><div class="color-button">Project Repo</div></a>
 	</li><br>
 	<li>
 		<b>UPS Hackathon Project: Personal Vehicle Driver App</b>: This app was designed for the UPS Hackathon. A personal vehicle driver is someone who helps with deliveries during peak delivery season, where they utilize their personal vehicles to pick up and deliver packages as a third-party employer of UPS. Our team designed an app for PVDs to sign on, register their vehicles, and receive their assigned packages to deliver based on their vehicle space and selection. These packages are assigned using an algorithm that maximizes the packages assigned by assigning the biggest packages available that fit in the vehicle and then move on to smaller packages. Programming done in python and SQL. <br>
