@@ -9,9 +9,9 @@ permalink: /courses/
 <h3>Computer Science</h3>
 
 <ul>
-	<li><a href="https://planetterp.com/course/CMSC320"><b>CMSC 320:</b></a> Intro to Machine Learning</li>
-	<li><a href="https://planetterp.com/course/CMSC420"><b>CMSC 420:</b></a> Database Design</li>
-	<li><a href="https://planetterp.com/course/CMSC351"><b>CMSC 351:</b></a> Web Applications</li>
+	<li><a href="https://planetterp.com/course/CMSC422"><b>CMSC 422:</b></a> Intro to Machine Learning</li>
+	<li><a href="https://planetterp.com/course/CMSC424"><b>CMSC 424:</b></a> Database Design</li>
+	<li><a href="https://planetterp.com/course/CMSC335"><b>CMSC 335:</b></a> Web Applications</li>
 	<li><a href="https://planetterp.com/course/CMSC320"><b>CMSC 320:</b></a> Intro to Data Science</li>
 	<li><a href="https://planetterp.com/course/CMSC420"><b>CMSC 420:</b></a> Advanced Data Structures</li>
 	<li><a href="https://planetterp.com/course/CMSC351"><b>CMSC 351:</b></a> Algorithms</li>
@@ -34,8 +34,10 @@ permalink: /courses/
 <h3>Business</h3>
 
 <ul>
-	<li><a href="https://planetterp.com/course/BMGT375"><b>BMGT 375:</b></a> Supply Chain Management*</li>
-	<li><a href="https://planetterp.com/course/BMGT210"><b>BMGT 210:</b></a> Foundations of Accounting*</li>
+	<li><a href="https://planetterp.com/course/BMGT355"><b>BMGT 355:</b></a> Marketing</li>
+	<li><a href="https://planetterp.com/course/BMGT345"><b>BMGT 345:</b></a> Foundations of Finance</li>
+	<li><a href="https://planetterp.com/course/BMGT375"><b>BMGT 375:</b></a> Supply Chain Management</li>
+	<li><a href="https://planetterp.com/course/BMGT210"><b>BMGT 210:</b></a> Foundations of Accounting</li>
 	<li><a href="https://planetterp.com/course/BMGT395"><b>BMGT 395:</b></a> Foundations of Management</li>
 	<li><a href="https://planetterp.com/course/ENES210"><b>ENES 210:</b></a> Entrepreneurship II: Tech Ventures</li>
 	<li><a href="https://planetterp.com/course/ENES140"><b>ENES 140:</b></a> Entrepreneurship</li>
