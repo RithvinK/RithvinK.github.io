@@ -12,7 +12,7 @@ Here is a list of my projects! You can also check out my Github profile <a href=
 	</li><br>
 	<li>
 		<b>Movie Recommender Web App</b>: Allows a user to fill out info regarding their movie interests(genre and favorite movies) as well as contact info. After that, they are able to find other users who share similar interests in their chosen movies and contact them. <br>
-		<a href="https://github.com/RithvinK/Movie_Recommender"><div class="color-button">Project Details</div></a><br>
+		<a href="https://github.com/RithvinK/Movie_Recommender"><div class="color-button">Project Details</div></a>
 		<a href="https://www.youtube.com/watch?v=QUT7arhdlzo"><div class="color-button">Video Demo</div></a>
 	</li><br>
 	<li>
