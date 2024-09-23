@@ -8,7 +8,8 @@ Here is a list of my projects! You can also check out my Github profile <a href=
 
 <ul>
 	<li>
-		<b>***COMING SOON*** - Mobile App for PECS Communication System</b>: Developing a mobile app solution which modernizes the current PECS communication system, a system utilized for communication for people diagnosed with autism spectrum disorder. The system utilizes physical cards, which will be stored on an online database for this app solution. Development occuring in Google Firebase and utilizing Google Cloud Storage Buckets, BigQuery, and App Engine. <br>
+		<b>AI Formula 1 Race Predictor Application</b>: Developed a python script which utilizes Python, data analysis libraries, and ML libraries like sklearn and pytorch to generate predictions for a racer at a specific circuit. Done through utilizing data such as team success, driver qualififying position, and track success. <br>
+		<a href="[https://github.com/RithvinK/Movie_Recommender](https://github.com/RithvinK/Formula1Project)"><div class="color-button">Project Repo</div></a>
 	</li><br>
 	<li>
 		<b>Movie Recommender Web App</b>: Allows a user to fill out info regarding their movie interests(genre and favorite movies) as well as contact info. After that, they are able to find other users who share similar interests in their chosen movies and contact them. <br>
